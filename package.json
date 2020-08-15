@@ -1,0 +1,19 @@
+{
+  "name": "api-test-13-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkliuiev/api-test-13-08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkliuiev/api-test-13-08/issues"
+  },
+  "homepage": "https://github.com/kkliuiev/api-test-13-08#readme"
+}
